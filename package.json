@@ -4,6 +4,7 @@
   "description": "Alfred check IP",
   "license": "MIT",
   "repository": "calpa/alfy-ip",
+  "main": "index.js",
   "author": {
     "name": "Calpa Liu",
     "email": "calpaliu@gmail.com",
