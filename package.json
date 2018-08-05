@@ -21,7 +21,9 @@
   "files": [
     "index.js",
     "icon.png",
-    "info.plist"
+    "info.plist",
+    "src/index.js",
+    "src/pools.js"
   ],
   "keywords": [
     "alfred",
