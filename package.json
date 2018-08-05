@@ -1,7 +1,7 @@
 {
   "name": "alfy-ip",
-  "version": "0.0.0",
-  "description": "Hello World module",
+  "version": "1.0.0",
+  "description": "Alfred check IP",
   "license": "MIT",
   "repository": "calpa/alfy-ip",
   "author": {
@@ -25,7 +25,8 @@
   "keywords": [
     "alfred",
     "workflow",
-    "alfy"
+    "alfy",
+    "IP"
   ],
   "dependencies": {
     "alfy": "^0.6.0"
