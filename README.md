@@ -1,5 +1,7 @@
 # alfy-ip
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/calpa/alfy-ip.svg)](https://greenkeeper.io/)
+
 > Check ip with Alfred
 
 ![abfy-ip](https://i.imgur.com/riUjOib.jpg)
